@@ -58,7 +58,7 @@ View the bot’s responses and provide feedback using the slider.
 When the chat ends with "bye," the conversation history and feedback are saved to respective JSON files.
 Use this data for further analysis or to improve intent matching.
 
-
+PS: This is executed in Jupyter Notebook
 
 
 
