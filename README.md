@@ -1,4 +1,4 @@
-# Mental-Health-bot
+# Mental-Health-bot Using 
 This project presents Aneka, an AI-driven mental health chatbot designed to provide accessible 
 emotional support and guidance using Reinforcement Learning (RL) for dynamic response 
 optimization.  
