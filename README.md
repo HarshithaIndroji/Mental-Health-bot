@@ -27,7 +27,6 @@ Ensure Python is installed on your system.
 Create a virtual environment (optional but recommended) for managing dependencies.
 2. Install Required Libraries
 Use pip to install the following libraries:
-
 transformers: For working with the BERT model.
 torch: For handling tensor operations and loading the model.
 rapidfuzz: For fuzzy string matching to detect intent.
